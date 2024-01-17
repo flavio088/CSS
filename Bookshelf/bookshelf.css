@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin: 30px 40px 40px 40px;
+    padding: 10px 20px; 
+    text-align: center;
+}
+
+h2{
+    margin: 16px;
+}
+p{
+    margin: 16px;
+}
+
+li{
+    background-color: #43abf3 ;
+    color:white;
+    display: inline-block;
+    list-style: none;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 2rem;
+}
+
+#etc{
+    background-color: #0b0b16 ;
+}
+
+button{
+    background-color: #0b0b16 ;
+    color:white;
+    display: inline-block;
+    list-style: none;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 2rem;
+}
