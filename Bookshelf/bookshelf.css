@@ -8,11 +8,18 @@ body{
     padding: 10px 20px; 
     text-align: center;
 }
+h1{
+    font-family:serif;
+    font-weight: 100;
+}
 
 h2{
+    font-family:serif;
+    font-weight: 100;
     margin: 16px;
 }
 p{
+    font-family: sans-serif;
     margin: 16px;
 }
 
@@ -24,6 +31,8 @@ li{
     margin: 5px;
     padding: 10px;
     border-radius: 2rem;
+    cursor: pointer;
+    font-family: sans-serif;
 }
 
 #etc{
@@ -38,4 +47,13 @@ button{
     margin: 5px;
     padding: 10px;
     border-radius: 2rem;
+    cursor: pointer;
+    font-family: sans-serif;
+}
+
+footer{
+    background-color: #0b0b16;
+    color:white;
+    margin: 30px 40px 40px 40px;
+    padding: 10px 20px; 
 }
