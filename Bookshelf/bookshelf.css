@@ -51,9 +51,10 @@ button{
     font-family: sans-serif;
 }
 
-footer{
-    background-color: #0b0b16;
-    color:white;
-    margin: 30px 40px 40px 40px;
-    padding: 10px 20px; 
+footer {
+    background-color: #030308;
+    color: #fff;
+    font-family: "Lora", serif;
+    padding: 2rem;
+    text-align: center;
 }
